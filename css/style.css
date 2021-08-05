@@ -1,0 +1,199 @@
+/* BAITAP1  */
+.boder {
+  border: 1px solid green;
+}
+
+.salaryResult {
+  color: rgb(6, 54, 187);
+  font-style: italic;
+}
+
+/* END BAITAP1  */
+
+/* ---  */
+/* BAITAP2  */
+.baitap2 h2 {
+  text-align: center;
+}
+.calczone {
+  /* align-items: center; */
+  display: flex;
+  justify-content: space-around;
+}
+.calczone button {
+  height: 50px;
+  width: 130px;
+  border-radius: 10px;
+  margin-top: 25px;
+}
+/* .baitap2 button {
+  display: block;
+  margin: 0 auto;
+  height: 50px;
+  width: 120px;
+  border-radius: 10px;
+  margin-top: 30px;
+} */
+
+table,
+th,
+td {
+  border: 1px solid black;
+  margin: 10px 0;
+  text-align: center;
+}
+th {
+  height: 50px;
+  background-color: #546e7a;
+  color: #ffffff;
+  font-size: 18px;
+}
+.td1 {
+  background-color: #e8f5e9;
+}
+/* .th3 {
+  background-color: #1e88e5;
+  color: #000000;
+} */
+.input2 {
+  border-top-style: hidden;
+  border-right-style: hidden;
+  border-left-style: hidden;
+  border-bottom-style: hidden;
+  outline: none;
+  text-align: center;
+  scroll-snap-type: none;
+}
+/* END BAITAP2    */
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* ******  */
+/* BAI TAP 3 */
+.baitap3 .title,
+.small-title {
+  text-align: center;
+}
+.USD {
+  width: 430px;
+  height: 70px;
+  line-height: 65px;
+  border-radius: 5px;
+  box-shadow: rgb(0 0 0 / 10%) 0px 3px 15px;
+  transition: all 0.5s;
+}
+.USD:hover {
+  box-shadow: rgb(0 0 0 / 25%) 0px 3px 15px;
+}
+.USD img {
+  width: 40px;
+  height: 28px;
+  border-radius: 2px;
+  margin-right: 10px;
+}
+.USD span {
+  margin-left: 25px;
+  font-weight: bolder;
+}
+.small-title {
+  font-size: 24px;
+  font-weight: 600;
+  font-style: italic;
+  color: blue;
+}
+#inputDola {
+  width: 430px;
+  height: 70px;
+  line-height: 65px;
+  border-radius: 5px;
+  font-size: 36px;
+  outline: none;
+  border: 1px solid #fff;
+  margin-top: 15px;
+  box-shadow: rgb(0 0 0 / 10%) 0px 3px 15px;
+  text-align: right;
+  color: blue;
+  padding: 0 25px 0 50px;
+  transition: all 0.5s;
+  position: relative;
+}
+#inputVietNam {
+  width: 430px;
+  height: 70px;
+  line-height: 65px;
+  border-radius: 5px;
+  font-size: 36px;
+  outline: none;
+  border: 1px solid #fff;
+  margin-top: 15px;
+  box-shadow: rgb(0 0 0 / 10%) 0px 3px 15px;
+  text-align: right;
+  color: blue;
+  padding: 0 25px 0 50px;
+  transition: all 0.5s;
+}
+#inputDola:hover {
+  box-shadow: rgb(0 0 0 / 25%) 0px 3px 15px;
+}
+#inputVietNam:hover {
+  box-shadow: rgb(0 0 0 / 25%) 0px 3px 15px;
+}
+.row {
+  justify-content: space-around;
+  align-items: center;
+}
+#bntChange {
+  height: 50px;
+  width: 100px;
+  margin: 0 auto;
+}
+.center {
+  text-align: center;
+}
+.note-change {
+  font-style: italic;
+  margin-top: 15px;
+}
+.left,
+.right {
+  position: relative;
+}
+.small-icon {
+  position: absolute;
+  top: 90px;
+  left: 20px;
+  color: #546e7a;
+}
+/* END BAITAP3  */
+
+/* ----------  */
+/* BAITAP4  */
+
+#btnChuviDientich {
+  width: 120px;
+  height: 50px;
+  border-radius: 20px;
+  margin: 20px auto;
+}
+.boder2 {
+  border: 1px solid cornflowerblue;
+}
+
+/* end BAITAP4  */
+
+/* BAITAP5  */
+#btn2KySo {
+  width: 120px;
+  height: 50px;
+  border-radius: 20px;
+  margin: 20px auto;
+}
+
+#input2KySo {
+  text-align: center;
+}
+
+/* END BAITAP5  */
